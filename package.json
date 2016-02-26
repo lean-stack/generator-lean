@@ -1,0 +1,24 @@
+{
+  "name": "generator-lean",
+  "version": "0.0.1",
+  "description": "Yeoman generator for personal use in trainings.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lean-stack/generator-lean.git"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "Micha Alt <mail@lean-stack.de>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lean-stack/generator-lean/issues"
+  },
+  "homepage": "https://github.com/lean-stack/generator-lean#readme",
+  "files": [
+    "generators/app"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^0.22.5"
+  }
+}
